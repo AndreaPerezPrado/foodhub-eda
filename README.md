@@ -43,6 +43,7 @@ Data Cleaning | Handling missing values & formatting
 ✅ Repeat customers drive higher revenue  
 ✅ Some delivery delays correlate with cancellations  
 ✅ Opportunity to target loyalty & meal-time promos
+
 💡 Business Impact:
 These insights can help FoodHub increase repeat orders, optimize delivery operations, and improve customer satisfaction through targeted promotions and resource planning.
 ---
