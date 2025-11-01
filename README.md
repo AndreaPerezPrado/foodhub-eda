@@ -1,5 +1,15 @@
 # 🍽️ FoodHub Customer Order Analysis — Exploratory Data Analysis (EDA)
-![FoodHub_EDA](reports/figures/order_volume_trends.png)
+---
+
+### 📊 Sample Visualization — Order Distribution by Cost
+
+This chart shows how customer order amounts are distributed, helping identify spending behavior patterns.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AndreaPerezPrado/foodhub-eda/main/reports/figures/order_distribution_cost.png" width="600">
+</p>
+
+
 ### ▶️ Run This Notebook in Google Colab
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AndreaPerezPrado/foodhub-eda/blob/main/notebooks/foodhub_eda_full.ipynb)
