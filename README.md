@@ -1,4 +1,5 @@
 # 🍽️ FoodHub Customer Order Analysis — Exploratory Data Analysis (EDA)
+![FoodHub_EDA](reports/figures/order_volume_trends.png)
 ### ▶️ Run This Notebook in Google Colab
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AndreaPerezPrado/foodhub-eda/blob/main/notebooks/foodhub_eda_full.ipynb)
@@ -42,7 +43,8 @@ Data Cleaning | Handling missing values & formatting
 ✅ Repeat customers drive higher revenue  
 ✅ Some delivery delays correlate with cancellations  
 ✅ Opportunity to target loyalty & meal-time promos
-
+💡 Business Impact:
+These insights can help FoodHub increase repeat orders, optimize delivery operations, and improve customer satisfaction through targeted promotions and resource planning.
 ---
 
 ## 🚀 Next Enhancements
@@ -65,3 +67,13 @@ The full analysis notebook is located in: /notebooks/FoodHub_Project_LearnerNote
 ---
 
 Stay tuned — more projects coming! 🔥
+
+### Environment
+This project uses Python 3.x with the following libraries:
+- pandas
+- numpy
+- matplotlib
+- seaborn
+
+To install dependencies:
+pip install -r requirements.txt
