@@ -1,7 +1,7 @@
 # 🍽️ FoodHub Customer Order Analysis — Exploratory Data Analysis (EDA)
 ### ▶️ Run This Notebook in Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AndreaPerezPrado/foodhub-eda/blob/main/notebooks/FoodHub_Project_LearnerNotebook_FullCode(1).ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AndreaPerezPrado/foodhub-eda/blob/main/notebooks/foodhub_eda_full.ipynb)
 
 
 This project analyzes FoodHub customer order data to uncover patterns in ordering behavior, identify peak demand periods, explore spending patterns, and evaluate factors influencing cancellations and repeat business.  
